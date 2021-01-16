@@ -1,16 +1,15 @@
-# note_taking
+# Notes App
+ ### Tier: 1-Beginner
+Create and store your notes for later purpose!
+### User Stories
+User can create a note.  
+User can edit a note.  
+User can delete a note.  
+When closing the app the notes will be stored in local storage and when the User returns, the data will be retrieved.  
 
-A new Flutter project.
+### Screen shots
+[![Screenshot-1610824653.png](https://i.postimg.cc/L41fyCbN/Screenshot-1610824653.png)](https://postimg.cc/yW7kxPBZ)
+[![Screenshot-1610824622.png](https://i.postimg.cc/d0PgySpp/Screenshot-1610824622.png)](https://postimg.cc/0zntgZ80)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-1610824664.png](https://i.postimg.cc/13j31Pg6/Screenshot-1610824664.png)](https://postimg.cc/zyTrTsFX)
+[![Screenshot-1610824694.png](https://i.postimg.cc/CK8Sy8pT/Screenshot-1610824694.png)](https://postimg.cc/p9Pgzpdq)
