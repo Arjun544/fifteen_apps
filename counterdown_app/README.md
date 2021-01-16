@@ -7,7 +7,7 @@ The objective of Countdown Timer is to provide a continuously decrementing displ
 Use only builtin language functions for your calculations rather than relying on a library or package. This assumes, of course, that the language of your choice has adequate date and time manipulation functions built in.
 You may not use any code generators. You should develop your own original implementation.
 
-### User Stories
+### Features
 User can pick a date & time for a event to start.  
 User can enter name of event to start.  
 User can see how much left in completing of event.  
