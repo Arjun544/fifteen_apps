@@ -1,16 +1,16 @@
-# wallpaper_app
+# Wallpaper App
+### Tier: 1-Beginner
+Very cool and awesome collection of wallpapers. You also can download in your device.
 
-A new Flutter application.
+### Features
+User gets high resolution wallpapers with bundle of categories.  
+User can explore wallpapers from different categories.  
+User can preview wallpaper and see details of photographer.  
+User can search any wallpaper by name.  
+User can download wallapaper locally in device.  
 
-## Getting Started
+### Screen shots
+[![Screenshot-1610828868.png](https://i.postimg.cc/c4p7mqhx/Screenshot-1610828868.png)](https://postimg.cc/2VxBkKgM)
+[![Screenshot-1610828666.png](https://i.postimg.cc/1tb0YLSr/Screenshot-1610828666.png)](https://postimg.cc/YGfmvDhv)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Screenshot-1610828680.png](https://i.postimg.cc/jd9jm3kK/Screenshot-1610828680.png)](https://postimg.cc/7f3DT9kQ)
