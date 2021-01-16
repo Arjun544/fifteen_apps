@@ -58,9 +58,20 @@ class _CategoryScreenState extends State<CategoryScreen> {
     double screenWidth = MediaQuery.of(context).size.width;
 
     return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Constants.home_color,
+        elevation: 0,
+        title: Text(
+          widget.category,
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 22,
+          ),
+        ),
+      ),
       backgroundColor: Constants.home_color,
       body: Padding(
-        padding: const EdgeInsets.only(top: 30),
+        padding: const EdgeInsets.only(top: 10),
         child: StreamBuilder(
           stream: _stream,
           builder: (context, snapshot) {
@@ -69,7 +80,6 @@ class _CategoryScreenState extends State<CategoryScreen> {
                 child: CircularProgressIndicator(),
               );
             }
-
             return Container(
               padding: EdgeInsets.only(right: 10, left: 10),
               height: screenHeight,
@@ -77,7 +87,8 @@ class _CategoryScreenState extends State<CategoryScreen> {
                 controller: _scrollController,
                 gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(
                   maxCrossAxisExtent:
-                      MediaQuery.of(context).orientation == Orientation.portrait
+                      MediaQuery.of(context).orientation ==
+                              Orientation.portrait
                           ? 300
                           : 250,
                   childAspectRatio: 0.6625,
