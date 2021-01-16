@@ -18,7 +18,6 @@ User can see the elements in the countdown timer automatically decrement. For ex
 ## Screen shots
 
 [![Screenshot-1610823104.png](https://i.postimg.cc/CLB2rNs7/Screenshot-1610823104.png)](https://postimg.cc/Mvwtv14f)
-
 [![Screenshot-1610823120.png](https://i.postimg.cc/sgJb52cC/Screenshot-1610823120.png)](https://postimg.cc/FY7P4N8T)
 
 [![Screenshot-1610823168.png](https://i.postimg.cc/GhCMzC9L/Screenshot-1610823168.png)](https://postimg.cc/hh2bPN96)
