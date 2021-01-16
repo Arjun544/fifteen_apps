@@ -1,7 +1,7 @@
 # Notes App
  ### Tier: 1-Beginner
 Create and store your notes for later purpose!
-### User Stories
+### Features
 User can create a note.  
 User can edit a note.  
 User can delete a note.  
